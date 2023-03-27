@@ -82,13 +82,8 @@ def generate_summary():
     print("Summarize Text: \n", summary)
 
     # Connect to MySQL database
-    mydb = mysql.connector.connect(
-      host="localhost",
-      user="xunidb",
-      password="xunistudygo",
-      database="xunidb",
-      charset="utf8"
-    )
+    
+    # Use your own db credentials
     
     mycursor = mydb.cursor()
     
