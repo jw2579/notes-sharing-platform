@@ -478,7 +478,7 @@ use Phpml\Tokenization\WhitespaceTokenizer;
                                     <option>Database</option>
                                     <option>Machine Learning</option>
                                     <option>Game Theory</option>
-                                    <option>Algorithm</option>
+                                    <option>Algorithms</option>
                                     <option>Networks</option>
                                 </select>
                             </div>
