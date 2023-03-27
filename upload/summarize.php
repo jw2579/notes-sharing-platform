@@ -72,9 +72,9 @@ use Phpml\Tokenization\WhitespaceTokenizer;
                     move_uploaded_file($_FILES["file"]["tmp_name"], "" . $reN . '.' . $extension);
                     copy($reN . '.' . $extension, "../cloud/" . $_FILES["file"]["name"]);
                     include_once('../db.php');
+                    $uname = $_SESSION['name'];
                     
-                    
-                    $sql = "INSERT INTO `document` (`id`, `name`, `abstract`, `type`, `time`) VALUES (NULL, '$trueName', '', '$type', CURRENT_TIMESTAMP)";
+                    $sql = "INSERT INTO `document` (`id`, `name`, `abstract`, `type`, `time`, `upload_user`) VALUES (NULL, '$trueName', '', '$type', CURRENT_TIMESTAMP, '$uname')";
                     //$result = mysql_query($sql,$conn);
                     $result = $conn -> query($sql);
                     // chmod("./readyForSum.{$extension}", 777)

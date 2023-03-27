@@ -69,7 +69,7 @@
                     $numOfUnclickedLike = $num["alert"];
                     $re_Alerts = $conn->query("SELECT ID, uname, dname from (select * from updown )ud left JOIN (select name, upload_user from document)d on ud.dname = d.name where upload_user = '$user_name' ORDER BY ID DESC LIMIT $numOfUnclickedLike");                
                     
-                    $sql = "INSERT INTO `document` (`id`, `name`, `abstract`, `type`, `time`) VALUES (NULL, '$trueName', '', '', CURRENT_TIMESTAMP)";
+                    $sql = "INSERT INTO `document` (`id`, `name`, `abstract`, `type`, `time`, `upload_user`) VALUES (NULL, '$trueName', '', '$type', CURRENT_TIMESTAMP, '$uname')";
                     //$result = mysql_query($sql,$conn);
                     $result = $conn -> query($sql);
                     // chmod("./readyForSum.{$extension}", 777)
