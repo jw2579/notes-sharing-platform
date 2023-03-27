@@ -1,4 +1,6 @@
-Xuni Notes Sharing Platform: [xuni.uninoteshare.com](http://xuni.uninoteshare.com/)
+## Website Link
+
+Visit our website at [xuni.uninoteshare.com](http://xuni.uninoteshare.com/) to start sharing and accessing academic notes and resources!
 
 ---
 
