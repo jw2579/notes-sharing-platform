@@ -1,4 +1,4 @@
-Website Link: [xuni.uninoteshare.com](http://xuni.uninoteshare.com/)
+Xuni Notes Sharing Platform: [xuni.uninoteshare.com](http://xuni.uninoteshare.com/)
 
 ---
 
@@ -27,7 +27,3 @@ Overall, our platform provides a centralized location for students to share acad
 ## Set-up the Project
 
 To set up the project, install all the required packages for "capturenew.py," which is the algorithm for text summarization.
-
----
-
-Website Link: [xuni.uninoteshare.com](http://xuni.uninoteshare.com/)
