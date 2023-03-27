@@ -1,1 +1,1 @@
-XUNI notes sharing platform
+https://xuni.uninoteshare.com
