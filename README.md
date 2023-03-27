@@ -2,11 +2,11 @@
 
 Visit our website at [xuni.uninoteshare.com](http://xuni.uninoteshare.com/) to start sharing and accessing academic notes and resources!
 
----
-
 # Introduction
 
 Welcome to UniNoteShare, our notes sharing platform primarily led, developed, and managed by Jiaxuan Wu. Our platform provides a centralized location for students to share academic notes and resources with each other. We created this user-friendly, efficient, and secure platform to enable students to upload, search for, and access notes related to their academic fields easily. We have implemented a front-end interface that is easy to navigate and a back-end system that can handle large amounts of data. Our search function allows users to find relevant notes quickly, and we have taken measures to ensure the security of user data through encryption and other methods. We hope our platform will be helpful in facilitating the sharing of knowledge among students.
+
+---
 
 ## Tech Stacks
 
