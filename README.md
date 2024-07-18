@@ -3,9 +3,17 @@
 Visit our website at [xuni.uninoteshare.com](http://xuni.uninoteshare.com/) to start sharing and accessing academic notes and resources!
 
 ## Website Example Pages
-Home Main Page
+Home main page
 <img width="1257" alt="Screenshot 2024-07-18 at 8 40 34 AM" src="https://github.com/user-attachments/assets/f4e13ec0-a2db-4202-8a3f-fad0e35f8d04">
 
+Viewing articles page
+<img width="1252" alt="Screenshot 2024-07-18 at 8 40 20 AM" src="https://github.com/user-attachments/assets/c645aae9-fef5-4c2b-924f-d1a4f812184e">
+
+Summarizing articles page
+<img width="1257" alt="Screenshot 2024-07-18 at 8 43 38 AM" src="https://github.com/user-attachments/assets/4a777907-968a-4b18-ac78-338b19f06be1">
+
+Profile page
+<img width="1255" alt="Screenshot 2024-07-18 at 8 41 38 AM" src="https://github.com/user-attachments/assets/f38d5e54-c303-41b1-af89-a800f90e6f4b">
 
 # Introduction
 
